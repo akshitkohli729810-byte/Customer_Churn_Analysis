@@ -76,8 +76,9 @@ Customer_Churn_Analysis/
 
 ---
 
-## 👤 Author
-**Aditya Raj**  
+## 👤 Team
+**Aditya Raj** (ML Engineer) 
+**Akshit Kohli** (Data Scientist)
 GitHub: [@adityaraj536](https://github.com/adityaraj536)
 
 ---
